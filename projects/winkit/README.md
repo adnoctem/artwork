@@ -1,6 +1,6 @@
 # ❔ Why
 
-These icons primarily serve our [`gopskit` Project](https://github.com/adnoctem/gopskit).
+These icons primarily serve our [`winkit` Project](https://github.com/adnoctem/winkit).
 
 ### ©️ Copyright
 
